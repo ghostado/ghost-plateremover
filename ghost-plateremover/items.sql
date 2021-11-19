@@ -1,0 +1,1 @@
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES ('plate', 'Matrícula', 1, 0, 1);
